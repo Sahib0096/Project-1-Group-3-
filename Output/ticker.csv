@@ -1,9 +1,9 @@
 ,ETF,Sector
 XIU,iShares S&P/TSX 60 Index ETF,TSX_60
-XST,iShares S&P/TSX Capped Consumer Staples Index ETF,Consumer Staples
+XST,iShares S&P/TSX Capped Consumer Staples Index ETF,Consumer_Staples
 XHC,iShares Global Healthcare Index ETF,Health
-XRE,iShares S&P/TSX Capped REIT Index ETF,Real Estate
+XRE,iShares S&P/TSX Capped REIT Index ETF,Real_Estate
 XUT,iShares S&P/TSX Capped Utilities Index ETF,Utilities
-CEW,iShares Equal Weight Banc & Lifeco ETF,Financial Services
-TRVL,Harvest Travel & Leisure Index ETF,Travel & Leisure
-XGD,iShares S&P/TSX Global Gold Index ETF,Gold ETF
+CEW,iShares Equal Weight Banc & Lifeco ETF,Financial_Services
+TRVL,Harvest Travel & Leisure Index ETF,Travel_Leisure
+XGD,iShares S&P/TSX Global Gold Index ETF,Gold
